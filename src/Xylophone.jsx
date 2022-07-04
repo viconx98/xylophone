@@ -1,14 +1,14 @@
 import './styles.css';
 import Note from "./components/Note"
 
-import bvng from "./assets/bvng.mp3"
-import crfo from "./assets/crfo.mp3"
-import dtse from "./assets/dtse.mp3"
-import edqt from "./assets/edqt.mp3"
-import ldcc from "./assets/ldcc.mp3"
-import peol from "./assets/peoi.mp3"
-import tena from "./assets/tena.mp3"
-import udgb from "./assets/udgb.mp3"
+import bvng from "./public/assets/bvng.mp3"
+import crfo from "./public/assets/crfo.mp3"
+import dtse from "./public/assets/dtse.mp3"
+import edqt from "./public/assets/edqt.mp3"
+import ldcc from "./public/assets/ldcc.mp3"
+import peol from "./public/assets/peoi.mp3"
+import tena from "./public/assets/tena.mp3"
+import udgb from "./public/assets/udgb.mp3"
 
 
 const notes = [
